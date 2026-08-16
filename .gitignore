@@ -1,0 +1,12 @@
+Debug/
+Release/
+build/
+.settings/
+*.zip
+*.bak
+*.o
+*.d
+*.su
+*.map
+*.elf
+*.bin
